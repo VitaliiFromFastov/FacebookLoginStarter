@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.facebook.CallbackManager;
@@ -24,6 +25,7 @@ public class LoginActivity extends AppCompatActivity {
     public static int APP_REQUEST_CODE = 1;
     private LoginButton mButton;
     private CallbackManager callbackManager;
+    private TextView mTv;
 
 
     @Override
@@ -39,6 +41,7 @@ public class LoginActivity extends AppCompatActivity {
         mButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
             @Override
             public void onSuccess(LoginResult loginResult) {
+                //testing comment
 
             }
 
