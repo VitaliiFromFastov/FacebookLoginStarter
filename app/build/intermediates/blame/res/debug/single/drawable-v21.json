@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\847f0045504ac1e2b6f4e4242d26e3563a23ace4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d44a9485a2ac62c715023287bf56815c0da65a64\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d44a9485a2ac62c715023287bf56815c0da65a64\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\847f0045504ac1e2b6f4e4242d26e3563a23ace4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\847f0045504ac1e2b6f4e4242d26e3563a23ace4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\847f0045504ac1e2b6f4e4242d26e3563a23ace4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d44a9485a2ac62c715023287bf56815c0da65a64\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\com_accountkit_input_cursor.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\\output\\res\\drawable-v21\\com_accountkit_input_cursor.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d44a9485a2ac62c715023287bf56815c0da65a64\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

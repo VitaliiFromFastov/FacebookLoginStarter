@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:8:5-68:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\8205e35e4055ba8cbf5569ce32f2c2682e7e5fb8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:28:5-53:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\d44a9485a2ac62c715023287bf56815c0da65a64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\142ca7f2fe80074ea1e4a26ddb4413c8bb07f6c3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Admin\.android\build-cache\0da658408c29ca3663e2722eb418b6ddba8395c3\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Admin\.android\build-cache\ca3b1a5ea6db1455c79fd5db436a01f8e692f82e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Admin\.android\build-cache\7dbc7ea3d8b4b03b8d59e3502824688ef63c2623\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\847f0045504ac1e2b6f4e4242d26e3563a23ace4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\efdb060760f6dbf7968490ade75d808b8d3eeb14\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\aa197e91b09930f659f4625dd959f9d13a3f5dca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\5995ef784cc302afc7b1f4bf7184f0c26c66032c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\4d91047a9641d88a9169925799e656eef878af3e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\27cad001f8f69ced025fccd160cc715a110ade98\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\7454443d227cd4f0b040c9711a963d844f3c55f1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\d6c9b2cd320fe5d26d6c1ed4d5c827a5dc636043\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Admin\.android\build-cache\d95291db6cffaa0a596768906a7ef5687a9d6588\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Admin\.android\build-cache\f5909c1765e050cd2b4054c2a37a3b640a4403a7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\3ed01c4f2e7041f0d6c93a2956db96766ce17f68\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:9:9-36
+	android:icon
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:16:17-18:48
+	android:value
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:17:13-67
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:19:9-21:55
+	android:value
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:20:13-58
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:22:9-24:64
+	android:value
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:24:13-61
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:23:13-63
+activity#com.facebook.CustomTabActivity
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:26:9-35:20
+	android:exported
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:27:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:29:13-34:29
+action#android.intent.action.VIEW
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:31:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:32:27-75
+data
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:33:17-75
+	android:scheme
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:33:23-72
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:38:9-41:45
+MERGED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:29:9-34:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:31:13-65
+	android:launchMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:40:13-49
+		REJECTED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:33:13-52
+	tools:replace
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:41:13-42
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:39:13-73
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:43:9-50:20
+MERGED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:35:9-38:40
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:37:13-36
+	android:noHistory
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:43:19-92
+activity#com.example.udacity.surfconnect.LoginActivity
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:52:9-61:20
+	android:screenOrientation
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:54:13-49
+	android:theme
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:55:13-51
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:53:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:59:27-74
+activity#com.example.udacity.surfconnect.AccountActivity
+ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml:64:13-75
+uses-sdk
+INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\8205e35e4055ba8cbf5569ce32f2c2682e7e5fb8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Admin\.android\build-cache\d3ee364358d2f31a78d69f8497d48d8b8f12204a\output\AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\d44a9485a2ac62c715023287bf56815c0da65a64\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\0a1ad4dd0e8bea755cae30b4fa84b8feff25f986\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\142ca7f2fe80074ea1e4a26ddb4413c8bb07f6c3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] C:\Users\Admin\.android\build-cache\ee927373e519649b557baa906af4026999262054\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] C:\Users\Admin\.android\build-cache\f28f85038c5deef78f698db63df24ed5b34c7c08\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Admin\.android\build-cache\0da658408c29ca3663e2722eb418b6ddba8395c3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Admin\.android\build-cache\ca3b1a5ea6db1455c79fd5db436a01f8e692f82e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Admin\.android\build-cache\7dbc7ea3d8b4b03b8d59e3502824688ef63c2623\output\AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\847f0045504ac1e2b6f4e4242d26e3563a23ace4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\efdb060760f6dbf7968490ade75d808b8d3eeb14\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\aa197e91b09930f659f4625dd959f9d13a3f5dca\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\5995ef784cc302afc7b1f4bf7184f0c26c66032c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\4d91047a9641d88a9169925799e656eef878af3e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\27cad001f8f69ced025fccd160cc715a110ade98\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\7454443d227cd4f0b040c9711a963d844f3c55f1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\d6c9b2cd320fe5d26d6c1ed4d5c827a5dc636043\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Admin\.android\build-cache\d95291db6cffaa0a596768906a7ef5687a9d6588\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Admin\.android\build-cache\f5909c1765e050cd2b4054c2a37a3b640a4403a7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\3ed01c4f2e7041f0d6c93a2956db96766ce17f68\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\d44a9485a2ac62c715023287bf56815c0da65a64\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\src\main\AndroidManifest.xml
+provider#com.facebook.accountkit.internal.AccountKitInitProvider
+ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:51:13-76
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.26.0] C:\Users\Admin\.android\build-cache\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\output\AndroidManifest.xml:50:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\d44a9485a2ac62c715023287bf56815c0da65a64\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\0a1ad4dd0e8bea755cae30b4fa84b8feff25f986\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\142ca7f2fe80074ea1e4a26ddb4413c8bb07f6c3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\847f0045504ac1e2b6f4e4242d26e3563a23ace4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\efdb060760f6dbf7968490ade75d808b8d3eeb14\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\aa197e91b09930f659f4625dd959f9d13a3f5dca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\5995ef784cc302afc7b1f4bf7184f0c26c66032c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\4d91047a9641d88a9169925799e656eef878af3e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\27cad001f8f69ced025fccd160cc715a110ade98\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\7454443d227cd4f0b040c9711a963d844f3c55f1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\d6c9b2cd320fe5d26d6c1ed4d5c827a5dc636043\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Admin\.android\build-cache\d95291db6cffaa0a596768906a7ef5687a9d6588\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Admin\.android\build-cache\f5909c1765e050cd2b4054c2a37a3b640a4403a7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\3ed01c4f2e7041f0d6c93a2956db96766ce17f68\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\d44a9485a2ac62c715023287bf56815c0da65a64\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\d44a9485a2ac62c715023287bf56815c0da65a64\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\Admin\.android\build-cache\9a33c60645d0e6d5dd045300a5ff485914c98641\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Admin\.android\build-cache\0da658408c29ca3663e2722eb418b6ddba8395c3\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Admin\.android\build-cache\0da658408c29ca3663e2722eb418b6ddba8395c3\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Admin\.android\build-cache\0da658408c29ca3663e2722eb418b6ddba8395c3\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Admin\.android\build-cache\0da658408c29ca3663e2722eb418b6ddba8395c3\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Admin\.android\build-cache\7dbc7ea3d8b4b03b8d59e3502824688ef63c2623\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Admin\.android\build-cache\7dbc7ea3d8b4b03b8d59e3502824688ef63c2623\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Admin\.android\build-cache\7dbc7ea3d8b4b03b8d59e3502824688ef63c2623\output\AndroidManifest.xml:20:20-65
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Admin\.android\build-cache\b5e81b85855633b76b3bce320e907b4556746ee6\output\AndroidManifest.xml:45:13-70

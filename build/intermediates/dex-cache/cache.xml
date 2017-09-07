@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f75be23527514e2fab80a6641da52d11029e1542">
+        <dex dex="D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b07f86fc5f7f80b0fc5a533121565f5719609f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\d3ee364358d2f31a78d69f8497d48d8b8f12204a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78eb8110cc7fe80cd0c25f6467f27972cf58c276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android Projects\UdaciyProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_691b2321bd9da0e4c4464389c0b7e10c8b50bb97\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw321dp-v13\\values-sw321dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\\output\\res\\values-sw321dp-v13\\values-sw321dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 62,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 74,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\7d178d3b10ebfc0a0ab8015c3ff9cae6328e3baa\\output\\res\\values-sw321dp-v13\\values-sw321dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 74,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    }
+]

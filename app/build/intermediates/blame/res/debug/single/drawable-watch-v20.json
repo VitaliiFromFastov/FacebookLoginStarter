@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9a33c60645d0e6d5dd045300a5ff485914c98641\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9a33c60645d0e6d5dd045300a5ff485914c98641\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9a33c60645d0e6d5dd045300a5ff485914c98641\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]

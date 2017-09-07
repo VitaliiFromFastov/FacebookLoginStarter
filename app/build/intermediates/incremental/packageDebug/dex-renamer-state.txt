@@ -1,0 +1,7 @@
+#Fri Sep 01 22:02:59 EEST 2017
+base.0=D\:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_691b2321bd9da0e4c4464389c0b7e10c8b50bb97
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b07f86fc5f7f80b0fc5a533121565f5719609f8e\\classes.dex
+base.1=D\:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b07f86fc5f7f80b0fc5a533121565f5719609f8e
+file.0=D\:\\Android Projects\\UdaciyProjects\\facebook-account-kit-android-master\\lesson3\\FacebookLoginStarter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_691b2321bd9da0e4c4464389c0b7e10c8b50bb97\\classes.dex
