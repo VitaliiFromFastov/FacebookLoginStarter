@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="599fd8da-4547-489d-8627-94f3f9b051ed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/udacity/surfconnect/data/DatClass.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/udacity/surfconnect/data/DatClass.java" />
     </list>
     <ignored path="FacebookLoginStarter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2487,7 +2485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504758416009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adds textview field&#10;">
+      <created>1504871734092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504871734093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
